@@ -13,5 +13,10 @@
     "id": "slrTytCi42mOQgdIgxAru",
     "from": "alice",
     "text": "sup"
+  },
+  {
+    "id": "gJy48ele9hmrmgulnp967",
+    "from": "alice",
+    "text": "pubSub"
   }
 ]
